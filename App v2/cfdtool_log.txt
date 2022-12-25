@@ -1,0 +1,12 @@
+01-Oct-2021 11:08:05: Starting CFDTool, Version 1.7.3, Build Number 21.08.242
+01-Oct-2021 11:07:58: System {"system":["PCWIN64-L","Microsoft Windows [Versión 10.0.22000.194]","Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz","MATLAB 9.11.0.1769968 (R2021b)"]}:94E6F76EFA04; MATLAB MATLAB 9.11.0.1769968 (R2021b)
+01-Oct-2021 11:07:58: License 
+
+01-Oct-2021 11:08:05: tempdir(W)  = C:\Users\mario\AppData\Local\Temp\
+01-Oct-2021 11:08:05: app_home    = C:\Users\mario\AppData\Roaming\MathWorks\MATLAB Add-Ons\Apps\CFDTool
+01-Oct-2021 11:08:05: app_path(W) = 
+Geom mode.
+Starting new model...
+
+Geom mode.
+01-Oct-2021 11:10:01: Shutting down CFDTool

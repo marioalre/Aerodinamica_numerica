@@ -1,0 +1,69 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="700914086" file="G:\Mi unidad\UNILEON\2AEROESPACIAL\2º CUATRI\AERODINÁMICA\App v2\Aerodynamic flow calculator.prj" location="G:\Mi unidad\UNILEON\2AEROESPACIAL\2º CUATRI\AERODINÁMICA\App v2" name="Aerodynamic flow calculator" target="target.mlapps" target-name="Package App">
+    <param.appname>Aerodynamic flow calculator</param.appname>
+    <param.authnamewatermark>Mario Álvarez Redondo</param.authnamewatermark>
+    <param.email>marioar14@gmail.com</param.email>
+    <param.company>University of León</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>Basic aerodynamic calculator</param.summary>
+    <param.description />
+    <param.screenshot />
+    <param.version>2.2</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>G:\Mi unidad\UNILEON\2AEROESPACIAL\2º CUATRI\AERODINÁMICA</param.output>
+    <param.guid>ffbfd991-9871-49b7-b7cc-00d9981e65e8</param.guid>
+    <unset>
+      <param.authnamewatermark />
+      <param.email />
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.screenshot />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\app_aero.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\1.png</file>
+      <file>${PROJECT_ROOT}\2.png</file>
+      <file>${PROJECT_ROOT}\3.png</file>
+      <file>${PROJECT_ROOT}\aerodinamica_aviones.png</file>
+      <file>${PROJECT_ROOT}\escudo.svg</file>
+      <file>${PROJECT_ROOT}\logo_ingenierias_retina.png</file>
+      <file>${PROJECT_ROOT}\Transformada de Joukowsky - Wikipedia, la enciclopedia libre.html</file>
+    </fileset.resources>
+    <fileset.package />
+    <build-deliverables>
+      <file location="G:\Mi unidad\UNILEON\2AEROESPACIAL\2º CUATRI" name="AERODINÁMICA" optional="false">G:\Mi unidad\UNILEON\2AEROESPACIAL\2º CUATRI\AERODINÁMICA</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2021b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
